@@ -602,4 +602,4 @@ const posts =
   }
 ]
 
-// Utilizando los datos del array posts,Â crear una pÃ¡gina que permita publicarlos de manera correcta (sugiero el uso de cards), permitiendo que se puedan filtrar por userId.
+// Utilizando los datos del array posts, crear una página que permita publicarlos de manera correcta (sugiero el uso de cards), permitiendo que se puedan filtrar por userId. Estos datos están tomados de la API pública de JSONPLACEHOLDER.
