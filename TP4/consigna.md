@@ -16,6 +16,7 @@ const empresas = [
 
 ]
 
+
 Crear una web app que:
 
 1. Liste en una tabla todas las empresas tecnológicas más importantes del sector (aparte de su nombre, incluir su valor de mercado y CEO)
