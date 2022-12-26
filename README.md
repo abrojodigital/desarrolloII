@@ -12,7 +12,7 @@ Algunos enlaces útiles:
 
 [Arrays con map / filter / reduce (La cocina del código)](https://www.youtube.com/watch?v=tP8JiVUiyDo&feature=youtu.be)
 
-
-
 **GIT / GITHUB**
 [Aprende GIT de Bitbucket](https://www.atlassian.com/es/git/tutorials/learn-git-with-bitbucket-cloud)
+
+[Curso básico GIT / Github](https://youtu.be/PW_A-lOpVV0)
